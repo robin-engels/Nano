@@ -1,1 +1,1 @@
-# Welcometo Namo
+# Welcome to Namo
